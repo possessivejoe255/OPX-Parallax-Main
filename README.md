@@ -13,3 +13,7 @@
  - **Including their dependencies. Please install them via CKAN to avoid mistakes.**
  
  If you find that it runs without any of the former 4, they haven't been added yet as this mod is in heavy WIP.
+
+Made by:
+possessivejoe255 aka knightman3721
+Fragmaster_Tito aka Titochad420 
